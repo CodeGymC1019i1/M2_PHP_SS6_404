@@ -3,7 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="305b4aae-caf3-4af4-a6e8-3fe147496f01" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/Class/Shape/ClassName.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Shape" beforeDir="false" afterPath="$PROJECT_DIR$/Class/Shape" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Class/Shape/Circle.php" beforeDir="false" afterPath="$PROJECT_DIR$/Class/Shape/Circle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Shape/Cylinder.php" beforeDir="false" afterPath="$PROJECT_DIR$/Class/Shape/Cylinder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Shape/Rectangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/Class/Shape/Rectangle.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Class/Shape/Shape.php" beforeDir="false" afterPath="$PROJECT_DIR$/Class/Shape/Shape.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Class/Shape/Square.php" beforeDir="false" afterPath="$PROJECT_DIR$/Class/Shape/Square.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Class/Shape/index.php" beforeDir="false" />
@@ -19,7 +24,7 @@
     </execution>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Class/Shape" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="ProjectId" id="1UizBeaA6uVapiSuoa29FaW98ii" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -31,7 +36,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../M2_SS5_PHP_404" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -61,6 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1575854069257</updated>
       <workItem from="1575854070687" duration="3859000" />
+      <workItem from="1575859508695" duration="756000" />
     </task>
     <servers />
   </component>
@@ -68,6 +74,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1575861324764">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1575861324764" />
     <state x="339" y="210" width="841" height="373" key="NewPhpClassDialog" timestamp="1575857735154">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -76,5 +86,9 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="512" y="322" width="399" height="149" key="NewPhpFileDialog/67.27.1299.741@67.27.1299.741" timestamp="1575857722937" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1575859508731">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1575859508731" />
   </component>
 </project>
